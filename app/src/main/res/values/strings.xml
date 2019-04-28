@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Forex quotes</string>
+    <string name="updated">Обновлено %s секунд назад</string>
+    <string name="bid_ask">bid: %s ask: %s</string>
+    <string name="data_placeholder">------</string>
+</resources>
